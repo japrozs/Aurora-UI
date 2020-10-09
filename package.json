@@ -1,0 +1,29 @@
+{
+    "name": "aurora-ui",
+    "version": "1.0.0",
+    "description": "A simplistic library for all your web applications",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Japroz-Saini/Aurora-UI.git"
+    },
+    "keywords": [
+        "library",
+        "web",
+        "web-framework",
+        "bootstrap",
+        "semantic-ui",
+        "aurora",
+        "aurora-ui",
+        "japroz"
+    ],
+    "author": "Japroz Saini <sainijaproz@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Japroz-Saini/Aurora-UI/issues"
+    },
+    "homepage": "https://github.com/Japroz-Saini/Aurora-UI#readme"
+}
