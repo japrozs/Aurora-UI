@@ -13,3 +13,5 @@ To get started just include the following code inside the `<head>` tag of your `
 />
 <script src="https://github.com/Japroz-Saini/Aurora-UI/blob/master/src/Aurora.js"></script>
 ```
+
+Aurora-UI is currently in development, please see ```CONTRIBUTING.md``` for more information
