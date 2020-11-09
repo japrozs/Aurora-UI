@@ -171,6 +171,7 @@ body {
 
 .btn-left {
     border: none;
+    font-size: 1em;
     border-top-left-radius: 0.3rem;
     border-bottom-left-radius: 0.3rem;
     border: 1px solid rgb(74, 70, 75);
@@ -180,6 +181,7 @@ body {
 
 .btn-middle {
     border: none;
+    font-size: 1em;
     border-radius: 0px;
     border: 1px solid rgb(74, 70, 75);
     background-color: rgb(60, 60, 60);
@@ -188,6 +190,7 @@ body {
 
 .btn-right {
     border: none;
+    font-size: 1em;
     background-color: rgb(60, 60, 60);
     color: white;
     border-top-right-radius: 0.3rem;
@@ -218,6 +221,7 @@ body {
 .header {
     text-align: center;
     font-size: 6.5em;
+    font-weight: bold;
 }
 
 
@@ -404,12 +408,11 @@ body {
 
 .input-grp {
     display: flex;
-    margin: 10px;
 }
 
 .input-grp>.input-symb {
     margin: 0px;
-    padding: 2px;
+    padding: 8px;
     border-top-left-radius: 0.3rem;
     border-bottom-left-radius: 0.3rem;
     background-color: lightgray;
@@ -418,6 +421,8 @@ body {
 
 .input-grp>.input-field {
     border: none;
+    border: 1px solid lightgray;
+    font-size: 1em;
     margin: 0px;
     border-top-right-radius: 0.3rem;
     border-bottom-right-radius: 0.3rem;
@@ -547,3 +552,6 @@ body {
     min-width: 10px;
     padding: none;
 }
+
+
+/* Color classes */
