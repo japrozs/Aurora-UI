@@ -15,3 +15,4 @@ To get started just include the following code inside the `<head>` tag of your `
 ```
 
 Aurora-UI is currently in development, please see ```CONTRIBUTING.md``` for more information
+Currently, Aurora has shipped its first version and more versions will be coming in the future.To know about more components, check the src folder in the [Github Repo](https://github.com/Japroz-Saini/Aurora-UI).
