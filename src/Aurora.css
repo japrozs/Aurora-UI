@@ -8,6 +8,8 @@ Date : 8th October 2020
 /*  Root Styling */
 
 @import url("https://rsms.me/inter/inter.css");
+@import "./navbar.css"
+
 html {
     font-family: "Inter", Menlo, sans-serif;
 }
